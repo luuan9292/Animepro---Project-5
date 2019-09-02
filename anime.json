@@ -1,0 +1,2188 @@
+[
+    {
+        "id": "a28",
+        "name": "Charlotte",
+        "engname": "Charlotte",
+        "genres": "Drama, School",
+        "type": "TV series",
+        "studio": "P.A. Works",
+        "season": "Summer",
+        "year": "2018",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.4,
+        "episodes": "13",
+        "newep": "03",
+        "subteam": "Yamisora",
+        "thumblink": "/img/thumb11.jpg",
+        "bglink": "/img/bganime11.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "While on the surface Yuu Otosaka appears to be just another charming and intelligent teenager, he has a secret—he has the ability to slip into people's minds and fully control their body for five seconds at a time. Yuu has been using this skill for years to gain the highest grades, which allowed him to enter a prestigious high school."
+    },
+    {
+        "id": "a08",
+        "name": "Fruits Basket",
+        "engname": "Fruits Basket",
+        "genres": "Slice of Life, Shoujo, Romance",
+        "type": "TV series",
+        "studio": "TMS Entertainment",
+        "season": "Spring",
+        "year": "2019",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.3,
+        "episodes": "24",
+        "newep": "03",
+        "subteam": "Kanefusa",
+        "thumblink": "/img/thumb8.jpg",
+        "bglink": "/img/bganime8.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "Tooru Honda has always been fascinated by the story of the Chinese Zodiac that her beloved mother told her as a child. However, a sudden family tragedy changes her life, and subsequent circumstances leave her all alone. Tooru is now forced to live in a tent, but little does she know that her temporary home resides on the private property of the esteemed Souma family. Stumbling upon their home one day, she encounters Shigure, an older Souma cousin, and Yuki, the prince of her school. Tooru explains that she lives nearby, but the Soumas eventually discover her well-kept secret of being homeless when they see her walking back to her tent one night."
+    },
+    {
+        "id": "a09",
+        "name": "Natsume Yuujinchou",
+        "engname": "Natsume Yuujinchou",
+        "genres": "Slice of Life, Demon, Supernatural",
+        "type": "TV series",
+        "studio": "Brain's Base",
+        "season": "Spring",
+        "year": "2018",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.2,
+        "episodes": "12",
+        "newep": "03",
+        "subteam": "Kanefusa",
+        "thumblink": "/img/thumb9.jpg",
+        "bglink": "/img/bganime9.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "While most fifteen-year-old boys, in one way or another, harbor secrets that are related to girls, Takashi Natsume has a peculiar and terrifying secret involving youkai: for as long as he can remember, he has been constantly chased by these spirits. Natsume soon discovers that his deceased grandmother Reiko had passed on to him the Yuujinchou, or Book of Friends, which contains the names of the spirits whom she brought under her control. Now in Natsume's possession, the book gives Reiko's grandson this power as well, which is why these enraged beings now haunt him in hopes of somehow attaining their freedom."
+    },
+    {
+        "id": "a07",
+        "name": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai",
+        "engname": "If It's for My Daughter, I'd Even Defeat a Demon Lord",
+        "genres": "Slice of Life, Adventure, Fantasy",
+        "type": "TV series",
+        "studio": "Maho Film",
+        "season": "Summer",
+        "year": "2019",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.5,
+        "episodes": "12",
+        "newep": "03",
+        "subteam": "CabFansub",
+        "thumblink": "/img/thumb7.jpg",
+        "bglink": "/img/bganime7.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "Dale is a cool, composed, and highly skilled adventurer who's made quite a name for himself despite his youth. One day on a job deep in the forest, he comes across a little devil girl who's almost wasted away. Unable to just leave her there to die, Dale takes her home and becomes her adoptive father. Devil or not, Latina is beyond adorable, and the adventurer soon finds himself head over heels with being a parent. But why was she out in the forest to begin with, and why does she carry the mark of a criminal?"
+    },
+    {
+        "id": "a34",
+        "name": "One Piece",
+        "engname": "One Piece",
+        "genres": "Action, Adventure, Comedy",
+        "type": "TV series",
+        "studio": "Toei",
+        "season": "Spring",
+        "year": "2017",
+        "views": {
+            "total": 999876,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.8,
+        "episodes": "??",
+        "newep": "03",
+        "subteam": "VNStudio",
+        "thumblink": "/img/thumb17.jpg",
+        "bglink": "/img/bganime17.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "Gol D. Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King."
+    },
+    {
+        "id": "a03",
+        "name": "Fairy Tail",
+        "engname": "Fairy Tail",
+        "genres": "Action, Adventure, Fantasy, Magic",
+        "type": "TV series",
+        "studio": "A-1 Pictures",
+        "season": "Fall",
+        "year": "2018",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.5,
+        "episodes": "55",
+        "newep": "03",
+        "subteam": "VNStudio",
+        "thumblink": "/img/thumb3.jpg",
+        "bglink": "/img/bganime3.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "Although Fairy Tail has been disbanded and its members are now spread far across Fiore, Natsu Dragneel hasn't given up on reuniting the guild he and others once called home. Along with his companions Happy and Lucy Heartfilia, he will stop at nothing to keep Fairy Tail and its fiery spirit alive even as they face their most difficult trial yet—the invasion of Fiore by the Alvarez Empire's immense army and their all-too-familiar ruler."
+    },
+    {
+        "id": "a06",
+        "name": "Tate no Yuusha no Nariagari",
+        "engname": "The Rising of the Shield Hero",
+        "genres": "Action, Adventure, Drama, Fantasy",
+        "type": "TV series",
+        "studio": "Kinema Citrus",
+        "season": "Winter",
+        "year": "2018",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.3,
+        "episodes": "25",
+        "newep": "03",
+        "subteam": "Omamori",
+        "thumblink": "/img/thumb6.jpg",
+        "bglink": "/img/bganime6.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "he Four Cardinal Heroes are a group of ordinary men from modern-day Japan summoned to the kingdom of Melromarc to become its saviors. Melromarc is a country plagued by the Waves of Catastrophe that have repeatedly ravaged the land and brought disaster to its citizens for centuries. The four heroes are respectively bestowed a sword, spear, bow, and shield to vanquish these Waves. Naofumi Iwatani, an otaku, becomes cursed with the fate of being the Shield Hero Armed with only a measly shield, Naofumi is belittled and ridiculed by his fellow heroes and the kingdom's people due to his weak offensive capabilities and lackluster personality."
+    },
+    {
+        "id": "a04",
+        "name": "Enen no Shouboutai",
+        "engname": "Fire Force",
+        "genres": "Action, Supernatural, Shounen",
+        "type": "TV series",
+        "studio": "David Production",
+        "season": "Summer",
+        "year": "2019",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.4,
+        "episodes": "12",
+        "newep": "03",
+        "subteam": "ANIME47",
+        "thumblink": "/img/thumb4.jpg",
+        "bglink": "/img/bganime4.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "ear 198 of the Solar Era in Tokyo, special fire brigades are fighting against a phenomenon called spontaneous human combustion where humans beings are turned into living infernos called Infernals. While the Infernals are first generation cases of spontaneous human combustion, later generations possess the ability to manipulate flames while retaining human form. Shinra Kusakabe, a youth who gained the nickname Devil's Footprints for his ability to ignite his feet at will, joins the Special Fire Force Company 8 which composes of other flames users as they work to extinguish any Infernals they encounter. As a faction that is creating Infernals appears, Shira begins to uncover the truth behind a mysterious fire that caused the death of his family twelve years ago."
+    },
+    {
+        "id": "a10",
+        "name": "Re:Zero kara Hajimeru Isekai Seikatsu",
+        "engname": "Re:ZERO -Starting Life in Another World",
+        "genres": "Drama, Fantasy, Psychological",
+        "type": "TV series",
+        "studio": "White Fox",
+        "season": "Spring",
+        "year": "2016",
+        "views": {
+            "total": 777123,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.6,
+        "episodes": "25",
+        "newep": "03",
+        "subteam": "Koga",
+        "thumblink": "/img/thumb10.jpg",
+        "bglink": "/img/bganime10.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "When Subaru Natsuki leaves the convenience store, the last thing he expects is to be wrenched from his everyday life and dropped into a fantasy world. Things aren't looking good for the bewildered teenager; however, not long after his arrival, he is attacked by some thugs. Armed with only a bag of groceries and a now useless cell phone, he is quickly beaten to a pulp. Fortunately, a mysterious beauty named Satella, in hot pursuit after the one who stole her insignia, happens upon Subaru and saves him. In order to thank the honest and kindhearted girl, Subaru offers to help in her search, and later that night, he even finds the whereabouts of that which she seeks. But unbeknownst to them, a much darker force stalks the pair from the shadows."
+    },
+    {
+        "id": "a05",
+        "name": "One Punch Man",
+        "engname": "One Punch Man",
+        "genres": "Action, Comedy, Sci-Fi, Supernatural",
+        "type": "TV series",
+        "studio": "J.C Staff",
+        "season": "Spring",
+        "year": "2019",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.5,
+        "episodes": "12",
+        "newep": "03",
+        "subteam": "Kanefusa",
+        "thumblink": "/img/thumb5.jpg",
+        "bglink": "/img/bganime5.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "8.71 Ranked #47Popularity #5Members 1,343,402Fall 2015TVMadhouse Add to ListEpisodes: 0 /12buy from amazon* Your list is public by default. Trailer AnimeLab ver. play More videos EditSynopsis The seemingly ordinary and unimpressive Saitama has a rather unique hobby: being a hero. In order to pursue his childhood dream, he trained relentlessly for three years—and lost all of his hair in the process. Now, Saitama is incredibly powerful, so much so that no enemy is able to defeat him in battle. In fact, all it takes to defeat evildoers with just one punch has led to an unexpected problem—he is no longer able to enjoy the thrill of battling and has become quite bored."
+    },
+    {
+        "id": "a02",
+        "name": "Arifureta Shokugyou de Sekai Saikyou",
+        "engname": "Arifureta: From Commonplace to World's Strongest",
+        "genres": "Action, Adventure, Harem, Fantasy",
+        "type": "TV series",
+        "studio": "White Fox",
+        "season": "Summer",
+        "year": "2019",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.7,
+        "episodes": "12",
+        "newep": "03",
+        "subteam": "Yoake",
+        "thumblink": "/img/thumb2.jpg",
+        "bglink": "/img/bganime2.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "Seventeen-year-old Hajime Nagumo is your average, everyday otaku. However, his simple life of pulling all-nighters and sleeping in school is suddenly turned upside down when he, along with the rest of his class, is summoned to a fantasy world! They're treated like heroes and tasked with the duty of saving the human race from utter extinction. But what should have been any otaku's wet dream quickly turns into Hajime's nightmare. While the rest of his class are blessed with godlike powers, Hajime's job, Synergist, only has a single transmutation skill. Ridiculed and bullied by his classmates for being weak, he soon finds himself in despair. Will he be able to survive in this dangerous world of monsters and demons with only a glorified blacksmith's level of strength?"
+    },
+    {
+        "id": "a11",
+        "name": "Ajin: Demi-Human",
+        "engname": "Ajin: Demi-Human",
+        "genres": "Action, Horror",
+        "type": "Live",
+        "studio": "none",
+        "season": "Fall",
+        "year": "2018",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 7.9,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb9.jpg",
+        "bglink": "/img/bglive9.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a12",
+        "name": "AO HARU RIDE",
+        "engname": "Blue Spring Ride",
+        "genres": "Comedy, Romance, School",
+        "type": "Live",
+        "studio": "none",
+        "season": "Fall",
+        "year": "2018",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.1,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb17.jpg",
+        "bglink": "/img/bglive17.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a13",
+        "name": "ReLIFE",
+        "engname": "ReLIFE",
+        "genres": "Romance, School",
+        "type": "Live",
+        "studio": "none",
+        "season": "Winter",
+        "year": "2018",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.0,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb10.jpg",
+        "bglink": "/img/bglive10.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a14",
+        "name": "Ouran High School Host Club",
+        "engname": "Ouran High School Host Club",
+        "genres": "Comedy, Romance, School",
+        "type": "Live",
+        "studio": "none",
+        "season": "Fall",
+        "year": "2018",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.0,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb15.jpg",
+        "bglink": "/img/bglive15.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a15",
+        "name": "Ookami Shoujo to Kuro Ouji",
+        "engname": "Ookami Shoujo to Kuro Ouji",
+        "genres": "Romance, School",
+        "type": "Live",
+        "studio": "none",
+        "season": "Winter",
+        "year": "2017",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.9,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb13.jpg",
+        "bglink": "/img/bglive13.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a16",
+        "name": "Kuzu no Honkai",
+        "engname": "Kuzu no Honkai",
+        "genres": "Romance, School",
+        "type": "Live",
+        "studio": "none",
+        "season": "Fall",
+        "year": "2017",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.1,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb12.jpg",
+        "bglink": "/img/bglive12.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a17",
+        "name": "Shigatsu wa Kimi no Uso",
+        "engname": "Your Lie in April",
+        "genres": "Romance, School",
+        "type": "Live",
+        "studio": "none",
+        "season": "Spring",
+        "year": "2019",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.1,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb11.jpg",
+        "bglink": "/img/bglive11.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a18",
+        "name": "Fullmetal Alchemist",
+        "engname": "Fullmetal Alchemist",
+        "genres": "Action, Fantasy",
+        "type": "Live",
+        "studio": "none",
+        "season": "Fall",
+        "year": "2018",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.5,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb6.jpg",
+        "bglink": "/img/bglive6.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a19",
+        "name": "Mob Psycho 100",
+        "engname": "Mob Psycho 100",
+        "genres": "Action, Comedy, School",
+        "type": "Live",
+        "studio": "none",
+        "season": "Spring",
+        "year": "2018",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 7.4,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb5.jpg",
+        "bglink": "/img/bglive5.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a20",
+        "name": "Inuyashiki",
+        "engname": "Inuyashiki Last Hero",
+        "genres": "Action, Drama, Psychological, Seinen",
+        "type": "Live",
+        "studio": "none",
+        "season": "Summer",
+        "year": "2018",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.2,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "TakeruVN ",
+        "thumblink": "/img/livethumb1.jpg",
+        "bglink": "/img/bglive1.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a21",
+        "name": "Aiamuahiro",
+        "engname": "I Am A Hero",
+        "genres": "Action, Seinen",
+        "type": "Live",
+        "studio": "none",
+        "season": "Summer",
+        "year": "2016",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.9,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb2.jpg",
+        "bglink": "/img/bglive2.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a22",
+        "name": "Gintama 2",
+        "engname": "Gintama 2",
+        "genres": "Action, Comedy, Shounen",
+        "type": "Live",
+        "studio": "none",
+        "season": "Fall",
+        "year": "2017",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.7,
+        "episodes": "03",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb3.jpg",
+        "bglink": "/img/bglive3.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a23",
+        "name": "Saiki Kusuo no Sainan",
+        "engname": "Saiki Kusuo no Sainan",
+        "genres": "School, Comedy, Shounen",
+        "type": "Live",
+        "studio": "none",
+        "season": "Winter",
+        "year": "2017",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.4,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb4.jpg",
+        "bglink": "/img/bglive4.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a24",
+        "name": "Kakegurui",
+        "engname": "Kakegurui",
+        "genres": "Romance, School",
+        "type": "Live",
+        "studio": "none",
+        "season": "Summer",
+        "year": "2018",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.3,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb14.jpg",
+        "bglink": "/img/bglive14.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a25",
+        "name": "Prison School",
+        "engname": "Prison School",
+        "genres": "Comedy, Romance, School",
+        "type": "Live",
+        "studio": "none",
+        "season": "Spring",
+        "year": "2018",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.2,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb16.jpg",
+        "bglink": "/img/bglive16.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a26",
+        "name": "Ansatsu Kyoushitsu",
+        "engname": "Assassination Classroom",
+        "genres": "Action, Comedy, School",
+        "type": "Live",
+        "studio": "none",
+        "season": "Winter",
+        "year": "2018",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.7,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb7.jpg",
+        "bglink": "/img/bglive7.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a27",
+        "name": "Bleach",
+        "engname": "Bleach",
+        "genres": "Action, Comedy, Fantasy",
+        "type": "Live",
+        "studio": "none",
+        "season": "Spring",
+        "year": "2019",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.8,
+        "episodes": "01",
+        "newep": "03",
+        "subteam": "Fly ",
+        "thumblink": "/img/livethumb8.jpg",
+        "bglink": "/img/bglive8.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ]
+    },
+    {
+        "id": "a29",
+        "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+        "engname": "Classroom of the Elite",
+        "genres": "Drama, School",
+        "type": "TV series",
+        "studio": "Lerche",
+        "season": "Winter",
+        "year": "2019",
+        "views": {
+            "total": 444211,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.2,
+        "episodes": "12",
+        "newep": "03",
+        "subteam": "Koga",
+        "thumblink": "/img/thumb12.jpg",
+        "bglink": "/img/bganime12.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "On the surface, Koudo Ikusei Senior High School is a utopia. The students enjoy an unparalleled amount of freedom, and it is ranked highly in Japan. However, the reality is less than ideal. Four classes, A through D, are ranked in order of merit, and only the top classes receive favorable treatment. Kiyotaka Ayanokouji is a student of Class D, where the school dumps its worst. There he meets the unsociable Suzune Horikita, who believes she was placed in Class D by mistake and desires to climb all the way to Class A, and the seemingly amicable class idol Kikyou Kushida, whose aim is to make as many friends as possible."
+    },
+    {
+        "id": "a30",
+        "name": "Sword Art Online",
+        "engname": "Sword Art Online",
+        "genres": "Action, Fantasy, Harem",
+        "type": "TV series",
+        "studio": "A-1 Pictures",
+        "season": "Spring",
+        "year": "2019",
+        "views": {
+            "total": 555345,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.1,
+        "episodes": "24",
+        "newep": "03",
+        "subteam": "VNStudio ",
+        "thumblink": "/img/thumb13.jpg",
+        "bglink": "/img/bganime13.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "The Soul Translator is a state-of-the-art full-dive interface which interacts with the user's Fluctlight—the technological equivalent of a human soul—and fundamentally differs from the orthodox method of sending signals to the brain. The private institute Rath aims to perfect their creation by enlisting the aid of Sword Art Online survivor Kazuto Kirigaya. He works there as a part-time employee to test the system's capabilities in the Underworld: the fantastical realm generated by the Soul Translator. As per the confidentiality contract, any memories created by the machine in the virtual world are wiped upon returning to the real world. Kazuto can only vaguely recall a single name, Alice, which provokes a sense of unease when mentioned in reality."
+    },
+    {
+        "id": "a31",
+        "name": "Kimetsu no Yaiba",
+        "engname": "Blade of Demon Destruction",
+        "genres": "Action, Fantasy",
+        "type": "TV series",
+        "studio": "ufotable",
+        "season": "Spring",
+        "year": "2019",
+        "views": {
+            "total": 666234,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.3,
+        "episodes": "24",
+        "newep": "03",
+        "subteam": "CabFansub ",
+        "thumblink": "/img/thumb14.jpg",
+        "bglink": "/img/bganime14.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "The Soul Translator is a state-of-the-art full-dive interface which interacts with the user's Fluctlight—the technological equivalent of a human soul—and fundamentally differs from the orthodox method of sending signals to the brain. The private institute Rath aims to perfect their creation by enlisting the aid of Sword Art Online survivor Kazuto Kirigaya. He works there as a part-time employee to test the system's capabilities in the Underworld: the fantastical realm generated by the Soul Translator. As per the confidentiality contract, any memories created by the machine in the virtual world are wiped upon returning to the real world. Kazuto can only vaguely recall a single name, Alice, which provokes a sense of unease when mentioned in reality."
+    },
+    {
+        "id": "a32",
+        "name": "Black Clover",
+        "engname": "Black Clover",
+        "genres": "Action, Fantasy",
+        "type": "TV series",
+        "studio": "Pierrot",
+        "season": "Fall",
+        "year": "2017",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.2,
+        "episodes": "??",
+        "newep": "03",
+        "subteam": "VNStudio ",
+        "thumblink": "/img/thumb15.jpg",
+        "bglink": "/img/bganime15.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "When they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoire, a Black Clover giving him enough power to defeat Lebuty. A few days later, the two friends head out into the world, both seeking the same goal—to become the Wizard King!"
+    },
+    {
+        "id": "a33",
+        "name": "Dr. Stone",
+        "engname": "Dr. Stone",
+        "genres": "Adventure, Fantasy",
+        "type": "TV series",
+        "studio": "TMS",
+        "season": "Summer",
+        "year": "2019",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.1,
+        "episodes": "12",
+        "newep": "03",
+        "thumblink": "/img/thumb16.jpg",
+        "bglink": "/img/bganime16.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a33"
+            }
+        ],
+        "desc": "One fateful day, all of humanity was petrified by a blinding flash of light. After several millennia, high schooler Taiju awakens and finds himself lost in a world of statues. However, he’s not alone! His science-loving friend Senku’s been up and running for a few months and he's got a grand plan in mind—to kickstart civilization with the power of science!"
+    },
+    {
+        "id": "a36",
+        "name": "Mahouka Koukou no Rettousei OVA",
+        "engname": "Mahouka Koukou no Rettousei OVA",
+        "genres": "Action, Sci-Fi, Magic, School",
+        "type": "TV series",
+        "studio": "Madhouse",
+        "season": "Summer",
+        "year": "2019",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 8.5,
+        "episodes": "04",
+        "newep": "04",
+        "thumblink": "/img/thumb19.jpg",
+        "bglink": "/img/bganime19.jpg",
+        "list": {
+            "VNStudio": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                },
+                {
+                    "ep": "04",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a01"
+            },
+            {
+                "part": "OVA",
+                "relatedId": "a36"
+            },
+            {
+                "part": "Movie",
+                "relatedId": "a35"
+            }
+        ],
+        "desc": "One fateful day, all of humanity was petrified by a blinding flash of light. After several millennia, high schooler Taiju awakens and finds himself lost in a world of statues. However, he’s not alone! His science-loving friend Senku’s been up and running for a few months and he's got a grand plan in mind—to kickstart civilization with the power of science!"
+    },
+    {
+        "id": "a35",
+        "name": "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo",
+        "engname": "The Irregular at Magic High School The Movie",
+        "genres": "Action, Sci-Fi, Magic, School",
+        "type": "TV series",
+        "studio": "8bit",
+        "season": "Fall",
+        "year": "2017",
+        "views": {
+            "total": 55133,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 7.7,
+        "episodes": "01",
+        "newep": "01",
+        "subteam": "Fuyu ",
+        "thumblink": "/img/thumb18.jpg",
+        "bglink": "/img/bganime18.jpg",
+        "list": {
+            "Fuyu": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=0adaadacf585f0c6a72efb7730b1d1ba",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=0adaadacf585f0c6a72efb7730b1d1ba",
+                        "https://player.animetvn.tv/public/dist/index.html?id=0adaadacf585f0c6a72efb7730b1d1ba"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a01"
+            },
+            {
+                "part": "OVA",
+                "relatedId": "a36"
+            },
+            {
+                "part": "Movie",
+                "relatedId": "a35"
+            }
+        ],
+        "desc": "In the story, the seasons have changed and it will soon be the second spring. Tatsuya and Miyuki have finished their first year at First Magic High School and are on their spring break. The two go to their villa on the Ogasawara Island archipelago. After only a small moment of peace a lone young woman named Kokoa appears before them. She has abandoned the Naval base and she tells Tatsuya her one wish."
+    },
+    {
+        "id": "a01",
+        "name": "Mahouka Koukou no Rettouse",
+        "engname": "The Irregular at Magic High School",
+        "genres": "Action, Sci-Fi, Magic, School",
+        "type": "TV series",
+        "studio": "Madhouse",
+        "season": "Spring",
+        "year": "2014",
+        "views": {
+            "total": 888789,
+            "week": 10232,
+            "season": 30345,
+            "day": 1024
+        },
+        "score": 9.5,
+        "episodes": "26",
+        "newep": "14",
+        "thumblink": "/img/thumb1.jpg",
+        "bglink": "/img/bganime1.jpg",
+        "list": {
+            "Koga": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                },
+                {
+                    "ep": "04",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=84c83ef8994d4621406059318ffc2e93",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=84c83ef8994d4621406059318ffc2e93",
+                        "https://player.animetvn.tv/public/dist/index.html?id=84c83ef8994d4621406059318ffc2e93"
+                    ]
+                },
+                {
+                    "ep": "05",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=f35b66bd7230cb1785f0a4aa5d64c885",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=f35b66bd7230cb1785f0a4aa5d64c885",
+                        "https://player.animetvn.tv/public/dist/index.html?id=f35b66bd7230cb1785f0a4aa5d64c885"
+                    ]
+                },
+                {
+                    "ep": "06",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6caa76fc90cbb2e1e00128372f72186a",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6caa76fc90cbb2e1e00128372f72186a",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6caa76fc90cbb2e1e00128372f72186a"
+                    ]
+                },
+                {
+                    "ep": "07",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=e398511a29802174928dd6589242bae2",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=e398511a29802174928dd6589242bae2",
+                        "https://player.animetvn.tv/public/dist/index.html?id=e398511a29802174928dd6589242bae2"
+                    ]
+                },
+                {
+                    "ep": "08",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=0f5d7a0723f5f555460259dbdaaf7edc",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=0f5d7a0723f5f555460259dbdaaf7edc",
+                        "https://player.animetvn.tv/public/dist/index.html?id=0f5d7a0723f5f555460259dbdaaf7edc"
+                    ]
+                },
+                {
+                    "ep": "09",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=7580856339f5ab6f08f61832500b967f",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=7580856339f5ab6f08f61832500b967f",
+                        "https://player.animetvn.tv/public/dist/index.html?id=7580856339f5ab6f08f61832500b967f"
+                    ]
+                },
+                {
+                    "ep": "10",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=cd1068fdbc45653aa91fe7441872306b",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=cd1068fdbc45653aa91fe7441872306b",
+                        "https://player.animetvn.tv/public/dist/index.html?id=cd1068fdbc45653aa91fe7441872306b"
+                    ]
+                },
+                {
+                    "ep": "11",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=7bd4acc1de033aec6fbeb8d2b0c7e31c",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=7bd4acc1de033aec6fbeb8d2b0c7e31c",
+                        "https://player.animetvn.tv/public/dist/index.html?id=7bd4acc1de033aec6fbeb8d2b0c7e31c"
+                    ]
+                },
+                {
+                    "ep": "12",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=21cda8e190a39287ed2f0950cbe7e6ff",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=21cda8e190a39287ed2f0950cbe7e6ff",
+                        "https://player.animetvn.tv/public/dist/index.html?id=21cda8e190a39287ed2f0950cbe7e6ff"
+                    ]
+                },
+                {
+                    "ep": "13",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=dfe4964496bd5f15693b9c9720b0acbb",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=dfe4964496bd5f15693b9c9720b0acbb",
+                        "https://player.animetvn.tv/public/dist/index.html?id=dfe4964496bd5f15693b9c9720b0acbb"
+                    ]
+                },
+                {
+                    "ep": "14",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=fdf1851511faaca453a4de4d3ce1465b",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=fdf1851511faaca453a4de4d3ce1465b",
+                        "https://player.animetvn.tv/public/dist/index.html?id=fdf1851511faaca453a4de4d3ce1465b"
+                    ]
+                }
+            ],
+            "i05missu": [
+                {
+                    "ep": "01",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597",
+                        "https://player.animetvn.tv/public/dist/index.html?id=3abba5f2b7881e1a713d410843b31597"
+                    ]
+                },
+                {
+                    "ep": "02",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d",
+                        "https://player.animetvn.tv/public/dist/index.html?id=ff47e0427af574a80b6f668e6cc9109d"
+                    ]
+                },
+                {
+                    "ep": "03",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6d3b5b3b75dc39d0b0d8a20abd9d6ec7"
+                    ]
+                },
+                {
+                    "ep": "04",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=84c83ef8994d4621406059318ffc2e93",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=84c83ef8994d4621406059318ffc2e93",
+                        "https://player.animetvn.tv/public/dist/index.html?id=84c83ef8994d4621406059318ffc2e93"
+                    ]
+                },
+                {
+                    "ep": "05",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=f35b66bd7230cb1785f0a4aa5d64c885",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=f35b66bd7230cb1785f0a4aa5d64c885",
+                        "https://player.animetvn.tv/public/dist/index.html?id=f35b66bd7230cb1785f0a4aa5d64c885"
+                    ]
+                },
+                {
+                    "ep": "06",
+                    "link": "https://player.animetvn.tv/public/dist/index.html?id=6caa76fc90cbb2e1e00128372f72186a",
+                    "backuplink": [
+                        "https://player.animetvn.tv/public/dist/index.html?id=6caa76fc90cbb2e1e00128372f72186a",
+                        "https://player.animetvn.tv/public/dist/index.html?id=6caa76fc90cbb2e1e00128372f72186a"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            {
+                "part": "SS 1",
+                "relatedId": "a01"
+            },
+            {
+                "part": "OVA",
+                "relatedId": "a36"
+            },
+            {
+                "part": "Movie",
+                "relatedId": "a35"
+            }
+        ],
+        "desc": "In the dawn of the 21st century, magic, long thought to be folklore and fairy tales, has become a systematized technology and is taught as a technical skill. In First High School, the institution for magicians, students are segregated into two groups based on their entrance exam scores: Blooms, those who receive high scores, are assigned to the First Course, while Weeds are reserve students assigned to the Second Course. Mahouka Koukou no Rettousei follows the siblings, Tatsuya and Miyuki Shiba, who are enrolled in First High School. Upon taking the exam, the prodigious Miyuki is placed in the First Course, while Tatsuya is relegated to the Second Course. Though his practical test scores and status as a Weed show him to be magically inept."
+    }
+]

@@ -1,0 +1,33 @@
+/*----------------------------
+          Schedule
+ ----------------------------*/
+.schedule .schedule__wrapper .schedule__info .schedule__title {
+    width: 100%;
+    background: #e62b34;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 1% 0;
+}
+
+.schedule .schedule__wrapper .schedule__info .anime .anime__item .time__countdown {
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    width: 100%;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 7%;
+    text-align: center;
+    background: rgba(238, 29, 29, 0.5);
+}
+
+.schedule .schedule__wrapper .schedule__info .anime .anime__item .time__countdown span i {
+    position: absolute;
+    top: -25%;
+    left: 0%;
+    font-size: 3rem;
+}
+

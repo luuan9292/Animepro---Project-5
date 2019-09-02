@@ -1,0 +1,52 @@
+.utilities .util__box {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    margin-top: 5%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.utilities .util__box .utilities__title {
+    font-family: "poppins", sans-serif;
+    background: DeepSkyBlue;
+    color: white;
+    padding: 1% 2%;
+    font-weight: bold;
+    font-size:  1.5rem;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.utilities .util__box .post__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2%;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    background: #f6f6f6;
+}
+
+.utilities .util__box .post__content select {
+    width: 120px;
+    height: 40px;
+    background-color: #28a745;
+    color: white;
+    font-weight: bold;
+    padding: 0 2%;
+    border: none;
+}
+
+.utilities .util__box .post__content input {
+    height: 40px;
+    width: 50%;
+    background: #d5ffdf;
+} 
+
+.utilities .publish__btn {
+    margin-top: 2%;
+    text-align: right;
+}
+.utilities .publish__btn button {
+    padding: .5% 3%;
+    margin-right: 1%;
+    font-weight: bold;
+}

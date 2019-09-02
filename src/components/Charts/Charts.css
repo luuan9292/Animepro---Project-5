@@ -1,0 +1,29 @@
+/*----------------------------
+            Charts
+ ----------------------------*/
+
+.anime__charts .charts__btn {
+    margin-top: 5%;
+}
+
+.anime__charts .charts__btn button:hover {
+    opacity: 0.8;
+}
+
+.anime__charts .charts__btn button{
+    width: 100%;
+    background: #E62B34;
+    font-weight: bold;
+    padding: 3% 0;
+    border-radius: 0;
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
+
+.anime__charts .charts__items {
+    margin-top: 2%;
+    margin-bottom: 5%;
+    background: #f6f6f6;
+    padding: 1% 0;
+}

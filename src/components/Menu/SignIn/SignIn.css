@@ -1,0 +1,197 @@
+/*----------------------------
+            Sign In
+ ----------------------------*/
+
+ .menu__navbar .search .signin i{
+    color: rgb(199, 109, 25);
+    font-size: 2rem;
+    padding: 7px 15px;
+    border-radius: 10%;
+    background-color: white;
+    cursor: pointer;
+}
+
+.menu__navbar .search .signin:hover i {
+    opacity: 0.8;
+}
+
+.menu__navbar .search .signin .signin__wrapper {
+    position: absolute;
+    top: 70%;
+    right: 0;
+    height: 30%;
+    width: 100%;
+    visibility: hidden;
+    background-color: transparent;
+}
+
+.menu__navbar .search .signin:hover .signin__wrapper {
+    visibility: visible;
+}
+
+.menu__navbar .search .signin .signin__wrapper .signin__form {
+    box-sizing: unset;
+    position: absolute;
+    top: 250%;
+    right: 1%;
+    height: auto;
+    width: 20%;
+    padding: 2%;
+    padding-top: 6%;
+    background-color: #f6f6f6;
+    border-radius: 12px;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 3000;
+    transition: all .5s;
+}
+
+.menu__navbar .search .signin:hover .signin__wrapper .signin__form  {
+    top: 100%;
+    opacity: 1;
+    visibility: visible;
+}
+
+.menu__navbar .search .signin .signin__wrapper .signin__form form {
+    position: relative;
+}
+
+.menu__navbar .search .signin .signin__wrapper .signin__form .avatar {
+    box-sizing: unset;
+    position: absolute;
+    top: -55%;
+    left: 27%;
+    width: 35%;
+    border: 10px solid rgba(221, 218, 215, 0.23);
+    background-color: white;
+    border-radius: 50%;
+    padding: 3%;
+    cursor: pointer;
+    z-index: 100;
+}
+
+.menu__navbar .search .signin .signin__wrapper .signin__form .avatar img {
+    width: 100%;
+}
+
+.menu__navbar .search .signin .signin__wrapper .signin__form .avatar:hover {
+    opacity: 0.9;
+}
+
+.menu__navbar .search .signin .signin__wrapper .signin__form div {
+    margin-bottom: 3%;
+}
+
+.menu__navbar .search .signin .signin__wrapper .signin__form label {
+    font-size: .9rem;
+    font-weight: bold;
+}
+
+.menu__navbar .search .signin .signin__wrapper .signin__form input {
+    position: relative;
+    width : 100%;
+    display: block;
+    border: none;
+    outline: none;
+    padding: 3%;
+    border-radius: 5px;
+    border-bottom: 2px solid transparent;
+    transition: all .7s ease-out;
+}
+
+.menu__navbar .search .signin .signin__wrapper .signin__form input:focus {
+    border-bottom: 2px solid #E62B34;
+    background-color: rgba(230, 43, 52,0.1);
+}
+
+.menu__navbar .search .signin .signin__wrapper .signin__form input:focus::placeholder {
+    color: transparent;
+}
+
+.menu__navbar .search .signin .signin__wrapper .signin__form input::placeholder {
+    opacity: 0.5;
+}
+
+.menu__navbar .search .signin .signin__wrapper .signin__form a {
+    color: tomato;
+}
+
+.menu__navbar .search .signin .signin__wrapper .signin__form .btn__signin {
+    box-sizing: unset;
+    text-align: center;
+    width: 50%;
+    border: none;
+    outline: none;
+    padding: 3% 10%;
+    margin-left: 15%;
+    color: white;
+    font-weight: bold;
+    background: linear-gradient(90deg, rgba(230,43,52,1) 40%, rgba(230,134,43,1) 100%);
+    border-radius: 7px;
+}
+
+.menu__navbar .search .signin .signin__wrapper .signin__form .btn__signin:hover {
+    background: linear-gradient(90deg, rgba(230,134,43,1) 40%, rgba(230,43,52,1)100%);
+}
+
+/* Custom checkbox */
+
+.menu__navbar .search .signin .signin__wrapper .remember {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin: 10% 0 5% 30%;
+    cursor: pointer;
+    font-size: 25px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .menu__navbar .search .signin .signin__wrapper .remember input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+  }
+
+  .menu__navbar .search .signin .signin__wrapper .checkmark {
+    position: absolute;
+    top: -10%;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+  }
+
+  .menu__navbar .search .signin .signin__wrapper .remember:hover input ~ .checkmark {
+    background-color: #ccc;
+  }
+
+  .menu__navbar .search .signin .signin__wrapper .remember input:checked ~ .checkmark {
+    background-color: #2196F3;
+  }
+
+  .menu__navbar .search .signin .signin__wrapper .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+  }
+
+  .menu__navbar .search .signin .signin__wrapper .remember input:checked ~ .checkmark:after {
+    display: block;
+  }
+
+  .menu__navbar .search .signin .signin__wrapper .remember .checkmark:after {
+    left: 9px;
+    top: 0;
+    width: 10px;
+    height: 20px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }

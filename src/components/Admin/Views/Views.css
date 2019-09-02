@@ -1,0 +1,119 @@
+.dash__views {
+    margin-bottom: 5%;
+}
+
+.dash__views .views__detail {
+    background-color: #f6f6f6;
+    padding: 5%;
+    margin-top: 5%;
+    border-radius: 0;
+}
+
+.vidash__viewsews .views__detail .views__percent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2% 0;
+}
+
+.dash__views .views__detail .views__percent .badge  {
+    padding: 2%;
+}
+
+
+.dash__charts .barChart {
+    background-color: #f6f6f6;
+    margin-top: 2%;
+}
+
+.dash__charts .radial__chart,
+.dash__charts .pie__chart {
+    background-color: #f6f6f6;
+    margin-top: 7%;
+}
+
+
+.dash__new {
+    margin-top: 2%;
+    color: white;
+}
+
+.dash__new .dash__detail {
+    position: relative;
+    padding: 5% 1%;
+    height: 160px;
+    border-radius: 5px;
+}
+
+.dash__new .dash__detail.info {
+    background-color: #17a2b8;
+    border: 3px solid #17a2b8;
+}
+.dash__new .dash__detail.danger {
+    background-color: #dc3545;
+    border: 3px solid #dc3545;
+
+}
+.dash__new .dash__detail.success {
+    background-color: #28a745;
+    border: 3px solid #28a745;
+
+}
+.dash__new .dash__detail.warning {
+    background-color: #ffc107;
+    border: 3px solid #ffc107;
+}
+
+.dash__new .dash__detail .dash__name {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dash__new .dash__detail .dash__name i {
+    font-size: 4rem;
+    margin-left: 5%;
+}
+
+.dash__new .dash__detail .dash__name .dash__number {
+    text-align: right;
+    margin-right: 5%;
+}
+
+.dash__new .dash__more {
+    position: absolute;
+    background-color: #f6f6f6;
+    display: flex;
+    justify-content: space-between;
+    width: 99%;
+    bottom: 1%;
+    left: .5%;
+    padding: 2% 0;
+
+}
+
+.dash__new .dash__more h6 {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-left: 2%;
+    padding-top: 1%;
+}
+
+.dash__new .dash__more span {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-right: 2%;
+}
+
+.dash__new .dash__detail.info .dash__more {
+    color: #17a2b8;
+}
+.dash__new .dash__detail.danger .dash__more {
+    color: #dc3545;
+}
+.dash__new .dash__detail.success .dash__more {
+    color: #28a745;
+}
+.dash__new .dash__detail.warning .dash__more {
+    color: #ffc107;
+}

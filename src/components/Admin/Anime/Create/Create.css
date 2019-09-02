@@ -1,0 +1,90 @@
+/*----------------------------
+          Create
+ ----------------------------*/
+ .admin__panel .admin__content .admin__dashboard .tool__content .post__content {
+    padding: 2% 3%;
+    margin: 0 2%;
+    background: #f6f6f6;
+}
+
+.admin__panel .admin__content .admin__dashboard .tool__content label {
+    font-size: .9rem;
+    font-weight: bold;
+    margin-top: 2%;
+}
+
+.admin__panel .admin__content .admin__dashboard .tool__content input,
+.admin__panel .admin__content .admin__dashboard .tool__content textarea {
+    position: relative;
+    width : 100%;
+    display: block;
+    border: none;
+    outline: none;
+    padding: 1%;
+    border-radius: 5px;
+    border-bottom: 2px solid transparent;
+    resize: none;
+    transition: all .7s ease-out;
+}
+
+.admin__panel .admin__content .admin__dashboard .tool__content input:focus,
+.admin__panel .admin__content .admin__dashboard .tool__content textarea:focus {
+    border-bottom: 2px solid mediumturquoise;
+    background-color: rgba(101, 218, 214,0.2);
+}
+
+.admin__panel .admin__content .admin__dashboard .tool__content .input__add {
+    width: 100%;
+    display: flex;
+}
+
+.admin__panel .admin__content .admin__dashboard .tool__content .input__add span {
+    border: none;
+    border-radius: 0;
+    width: 70px;
+    cursor: pointer;
+    background: #28a745;
+}
+
+.admin__panel .admin__content .admin__dashboard .tool__content .select__box {
+    display: flex;
+}
+
+.admin__panel .admin__content .admin__dashboard .tool__content .custom__select {
+    margin-top: 3%;
+    margin-right: 2%;
+    width: 35%;
+}
+
+.admin__panel .admin__content .admin__dashboard .tool__content .custom__select label {
+    margin-right: 3%;
+}
+
+.admin__panel .admin__content .admin__dashboard .tool__content .custom__select select {
+    width: 150px;
+    height: 50px;
+    background-color: #28a745;
+    color: white;
+    font-weight: bold;
+    padding: 0 2%;
+    border: none;
+}
+
+.admin__panel .admin__content .admin__dashboard .input__add input {
+    width: 30%;
+}
+
+.admin__panel .admin__content .admin__dashboard .tool__content .add__link {
+    padding-left: 10%;
+}
+
+.admin__panel .admin__content .admin__dashboard .tool__content .publish__btn {
+    margin-top: 2%;
+    text-align: right;
+}
+
+.admin__panel .admin__content .admin__dashboard .tool__content .publish__btn button {
+    padding: 1% 4%;
+    margin-right: 2%;
+    font-weight: bold;
+}

@@ -1,0 +1,155 @@
+/*----------------------------
+        Anime Item
+ ----------------------------*/
+ .main__content{
+    margin-top: 5%;
+ }
+
+ .content .heading__title {
+     position: relative;
+     display: flex;
+ }
+
+ .content .heading__border:before {
+    position: absolute;
+    top: -12%;
+    left: 10%;
+    content: '';
+    width: 88%;
+    height: 8px;
+    background-color: #e62b34;
+ }
+
+ .content .heading__border:after {
+    position: absolute;
+    top: 54%;
+    left: 10%;
+    content: '';
+    width: 57%;
+    height: 5px;
+    background-color: #e62b34;
+ }
+
+ .content .heading__title h5 {
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 3%;
+    background-color: #e62b34;
+ }
+
+ .content .heading__title h5:before {
+    position: absolute;
+    content: '';
+    top: -68%;
+    left: 0;
+    width: 100%;
+    border-bottom: 15px solid #e62b34;
+    border-right: 20px solid transparent;
+ }
+
+ .content .heading__title h5:after {
+    position: absolute;
+    content: '';
+    bottom: -59%;
+    right: 0;
+    width: 100%;
+    border-top: 15px solid #e62b34;
+    border-left: 20px solid transparent;
+ }
+
+ .content .heading__title h5 i {
+     font-size: 2rem;
+     transform: rotate(90deg);
+ }
+
+ .content .heading__title .skewBtn {
+    width: 80px;
+    height: 25px;
+    outline: none;
+    cursor: pointer;
+    background: none;
+    transition: .5s;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 1%;
+    border: 1px solid #e62b34;
+    color: #e62b34;
+    margin-top: 5px;
+ }
+
+ .content .heading__title .skewBtn:hover {
+    border: none;
+    color: white;
+    transform:scale(1.1);
+    background-color: #e62b34;
+    transition: all 0.3s ease-in-out;
+ }
+
+  .content .heading__title .skewBtn.active {
+    background-color: #e62b34;
+    color: white;
+  }
+
+/*----------------------------
+        View More
+ ----------------------------*/
+.view__more{
+    margin: 3% 0 5% 0;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.view__more .view__btn {
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    background: none;
+    color: #E62B34;
+    font-weight: bold;
+    margin-right: 2%;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 0.2em solid #E62B34;
+    padding: 0.5em 1em;
+}
+
+.view__more .view__btn:hover {
+    text-decoration: none;
+    color: #E62B34;
+}
+
+.view__more .view__btn::before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 10%;
+    background: white;
+    height: 0.3em;
+    right: 20%;
+    top: -0.21em;
+    transform: skewX(-45deg);
+    -webkit-transition: all 0.45s cubic-bezier(0.86, 0, 0.07, 1);
+    transition: all 0.45s cubic-bezier(0.86, 0, 0.07, 1);
+}
+
+.view__more .view__btn::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 10%;
+    background: white;
+    height: 0.3em;
+    left: 20%;
+    bottom: -0.25em;
+    transform: skewX(45deg);
+    -webkit-transition: all 0.45 cubic-bezier(0.86, 0, 0.07, 1);
+    transition: all 0.45s cubic-bezier(0.86, 0, 0.07, 1);
+}
+.view__more .view__btn:hover::before {
+    right: 80%;
+}
+.view__more .view__btn:hover::after {
+    left: 80%;
+}

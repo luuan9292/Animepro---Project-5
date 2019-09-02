@@ -1,0 +1,213 @@
+/*----------------------------
+            Sign Out
+ ----------------------------*/
+
+ .menu__navbar .search  .signout .welcome {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 250px;
+    background-color: #28a745;
+    border: 1px solid white;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+ }
+
+ .menu__navbar .search  .signout .welcome h6 {
+    font-weight: bold;
+    color: white;
+    margin: 0 auto;
+ }
+
+ .menu__navbar .search  .signout .welcome .profile__icon {
+    color: #28a745;
+    font-size: 2rem;
+    padding: 7px 15px;
+    background-color: white;
+    border: 3px solid #28a745;
+
+    cursor: pointer;
+ }
+
+
+.menu__navbar .search .signout:hover .welcome i {
+    opacity: 0.8;
+}
+
+.menu__navbar .search .signout .signout__wrapper {
+    position: absolute;
+    top: 70%;
+    left: 0;
+    height: 30%;
+    width: 100%;
+    visibility: hidden;
+    background-color: transparent;
+}
+
+.menu__navbar .search .signout:hover .signout__wrapper {
+    visibility: visible;
+}
+
+.menu__navbar .search .signout .signout__wrapper .signout__form {
+    box-sizing: unset;
+    position: absolute;
+    top: 250%;
+    right: 1%;
+    height: auto;
+    width: 20%;
+    padding: 5% 2% 1% 2%;
+    background-color: #f6f6f6;
+    border-radius: 12px;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 3000;
+    transition: all .5s;
+}
+
+.menu__navbar .search .signout:hover .signout__wrapper .signout__form  {
+    top: 100%;
+    opacity: 1;
+    visibility: visible;
+}
+
+.menu__navbar .search .signout .signout__wrapper .signout__form .form__info{
+    position: relative;
+}
+
+.menu__navbar .search .signout .signout__wrapper .signout__form .avatar {
+    box-sizing: unset;
+    position: absolute;
+    top: -45%;
+    left: 27%;
+    width: 35%;
+    border: 10px solid rgba(221, 218, 215, 0.23);
+    background-color: white;
+    border-radius: 50%;
+    padding: 3%;
+    cursor: pointer;
+    z-index: 100;
+    overflow: hidden;
+}
+
+.menu__navbar .search .signout .signout__wrapper .signout__form .avatar img {
+    width: 100%;
+}
+
+.menu__navbar .search .signout .signout__wrapper .signout__form .avatar:hover {
+    opacity: 0.9;
+}
+
+.menu__navbar .search .signout .signout__wrapper .signout__form .btn__signout {
+    box-sizing: unset;
+    text-align: center;
+    width: 50%;
+    border: none;
+    outline: none;
+    padding: 3% 10%;
+    margin-left: 16%;
+    margin-top: 3%;
+    color: white;
+    font-weight: bold;
+    background: linear-gradient(90deg, rgba(230,43,52,1) 40%, rgba(230,134,43,1) 100%);
+    border-radius: 7px;
+}
+
+.menu__navbar .search .signout .signout__wrapper .signout__form .btn__signout:hover {
+    background: linear-gradient(90deg, rgba(230,134,43,1) 40%, rgba(230,43,52,1)100%);
+}
+
+
+.menu__navbar .search .signout .signout__wrapper .form__profile {
+    background: rgb(228, 227, 227);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    padding-top: 8%;
+    padding-left: 10%;
+}
+
+.menu__navbar .search .signout .signout__wrapper .signout__form .box {
+    position: absolute;
+    top: -10%;
+    right: 20%;
+    cursor: pointer;
+    animation: swingbox;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+}
+
+.menu__navbar .search .signout .signout__wrapper .signout__form .box i {
+    color: #28a745;
+    font-size: 3rem;
+}
+
+@keyframes swingbox {
+    0% {
+        transform: rotate(-10deg) scale(1.2);
+    }
+    5% {
+        transform: rotate(0deg);
+    }
+    45% {
+        transform: rotate(0deg);
+    }
+    50% {
+        transform: rotate(10deg);
+    }
+    55% {
+        transform: rotate(0deg);
+    }
+    95% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(-10deg);
+    }
+}
+
+.menu__navbar .search .signout .signout__wrapper .form__name {
+    text-align: center;
+}
+
+.menu__navbar .search .signout .signout__wrapper .form__name h5 {
+    font-weight: bold;
+}
+
+.menu__navbar .search .signout .signout__wrapper .form__name h6 {
+    opacity: 0.5;
+}
+
+.menu__navbar .search .signout .signout__wrapper .profile {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.menu__navbar .search .signout .signout__wrapper .signout__form div {
+    margin-bottom: 3%;
+}
+
+.menu__navbar .search .signout .signout__wrapper .form__profile .profile .icon i {
+    background-color:transparent;
+    color: rgb(168, 168, 168);
+    padding: 7px 15px;
+    font-size: 2.2rem;
+}
+
+
+.menu__navbar .search .signout .signout__wrapper .form__profile .profile .info h5 {
+    color: gray;
+    font-weight: bold;
+    margin-left: 5%;
+    opacity: 0.7;
+}
+
+.menu__navbar .search .signout .signout__wrapper .form__profile .profile .info h6 {
+    color: rgb(130, 130, 130);
+    font-weight: bold;
+    margin-left: 5%;
+}
+

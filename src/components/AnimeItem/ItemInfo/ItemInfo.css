@@ -1,0 +1,394 @@
+/*----------------------------
+          Item Info
+ ----------------------------*/
+
+ .detail__cover {
+    box-sizing: unset;
+    padding: 2% 0;
+    background-color: #f6f6f6;
+}
+
+.anime__detail {
+    position: relative;
+    width : 100%;
+    -webkit-box-shadow: 6px 2px 24px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: 6px 2px 24px -7px rgba(0,0,0,0.75);
+    box-shadow: 6px 2px 24px -7px rgba(0,0,0,0.75);
+}
+
+.anime__detail img:first-child {
+    width : 100%;
+}
+
+.anime__detail .detail {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    height: 100%;
+}
+
+.anime__introduce {
+    margin-top: 3%;
+}
+
+.anime__detail .detail .anime__introduce .anime__thumb {
+    position: relative;
+    border-left: none;
+    border-bottom: none;
+    height: 292px;
+    overflow: hidden;
+    -webkit-box-shadow: 5px -7px 30px -5px rgba(255,255,255,1);
+    -moz-box-shadow: 5px -7px 30px -5px rgba(255,255,255,1);
+    box-shadow: 5px -7px 30px -5px rgba(255,255,255,1);
+}
+
+.anime__detail .detail .anime__introduce .anime__thumb img{
+    width: 100%;
+}
+
+.anime__detail .detail .anime__introduce  .anime__thumb .favorite {
+    position: absolute;
+    bottom: 3%;
+    right: 3%;
+    border: 2px solid #e62b34;;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50%;
+    color: white;
+    background-color: #e62b34;;
+    font-size: 2rem;
+    text-align: center;
+    cursor: pointer;
+    z-index: 99;
+}
+
+.added {
+  color: white;
+  background:#e62b34;
+}
+
+.anime__detail .detail .anime__introduce .anime__thumb .anime__overlay {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 100%;
+    width: 100%;
+    top:0;
+    left: 0;
+    cursor: pointer;
+    opacity: 0;
+    z-index: 10;
+}
+
+.anime__detail .detail .anime__introduce .anime__thumb:hover .anime__overlay {
+    opacity: 1;
+}
+
+.anime__detail .detail .anime__introduce .anime__thumb .anime__overlay img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -100%);
+    width: 30%;
+    transition: all .5s;
+    border: none;
+}
+
+.anime__detail .detail .anime__introduce .anime__thumb:hover .anime__overlay img {
+    transform: translate(-50%, -50%) rotate(360deg);
+}
+
+.anime__detail .detail .anime__info {
+    position: relative;
+    margin-top: 3%;
+    padding: 0 5%;
+}
+
+.anime__detail .detail .anime__info h3 {
+    color: #E62B34;
+    font-weight: bold;
+}
+
+.anime__detail .detail .anime__info h5 {
+    color: white;
+}
+
+.anime__detail .detail .anime__info p {
+    color: white;
+    text-align: justify;
+    opacity: 0.8;
+}
+
+.detail__cover .anime__vote {
+    /* margin-top: 2%; */
+}
+
+.detail__cover .anime__vote ul {
+    list-style: none;
+    padding: 5% 0 5% 5%;
+    border: 7px solid rgb(230, 230, 230);
+    border-right: none;
+    background: rgb(235, 235, 235);
+
+}
+
+.detail__cover .anime__vote ul li {
+    color: black;
+    font-weight: bold;
+}
+
+.detail__cover .anime__vote ul li a {
+    font-size: 1rem;
+    outline: none;
+}
+
+.detail__cover .anime__vote ul li span {
+    color: rgb(236, 75, 83);
+}
+
+
+.anime__vote .CircularProgressbar  {
+    padding: 0 5%;
+}
+
+/* Ribbon */
+
+.anime__thumb .ribbon {
+  position: absolute;
+  color: #fff;
+  background: #A21D0A;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 4px;
+  text-shadow: 1px 1px 2px #111;
+  left: 0px;
+  top: 0px;
+}
+
+.anime__thumb .ribbon:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: -12px;
+  width: 0;
+  height: 0;
+  border-color: transparent transparent transparent #A21D0A;
+  border-style: solid;
+  border-width: 12px 0 12px 12px;
+}
+
+/* Skew button */
+
+.rating__overlay .skewBtn {
+  width: 70px;
+  height: 25px;
+  outline: none;
+  cursor: pointer;
+  background: none;
+  transition: .5s;
+  text-align: center;
+  border-radius: 5px;
+  margin-left: 1%;
+  border: 1px solid white;
+  margin-top: 3%;
+}
+
+.rating__overlay .skewBtn:hover {
+  border: none;
+  transform:scale(1.1);
+  background-color: #e62b34;
+  transition: all 0.3s ease-in-out;
+}
+
+.rating__overlay .skewBtn {
+    text-decoration: none;
+    color: white
+}
+
+.rating__overlay .skewBtn.active {
+  background-color: #e62b34;
+  border: 1px solid #e62b34;
+}
+
+/* Rating Vote */
+
+.rating__overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0,0,0,0.4);
+  width: 100%;
+  border-top: 1px solid gray;
+}
+
+.rating__vote{
+    transform: rotateY(180deg);
+    display:flex;
+    margin-right: 10%;
+    border-right: 1px solid gray;
+    z-index: 2;
+}
+.rating__vote input{
+    display:none;
+}
+.rating__vote label{
+    display:block;
+    cursor:pointer;
+    width:50px;
+}
+.rating__vote label:before{
+    content:'\f005';
+    font-family:"Font Awesome 5 free";
+    position:relative;
+    color:gold;
+    display:block;
+    font-size:30px;
+}
+.rating__vote label:after{
+    content:'\f005';
+    font-family:"Font Awesome 5 free";
+    font-weight:bold;
+    position:absolute;
+    display:block;
+    font-size:30px;
+    color:gold;
+    top:0;
+    opacity:0;
+    transition:.5s;
+    text-shadow:0 2px 5px rgba(0,0,0,0.5);
+}
+.rating__vote label:hover:after,
+.rating__vote label:hover ~ label:after,
+.rating__vote input:checked ~ label:after {
+    opacity:1
+}
+
+
+
+
+.anime__social {
+    position: absolute;
+    bottom: -21%;
+    right: 0%;
+    margin-right: 5%;
+    z-index: 1;
+  }
+  #wrapper #share {
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+  }
+  .anime__social .container {
+    position: relative;
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+  }
+  .anime__social .container .circle {
+    fill: none;
+    stroke: #fff;
+    stroke-width: 5px;
+    stroke-dasharray: 40;
+    transition: all 0.2s ease-in-out;
+    animation: outWaveOut 1s cubic-bezier(0.42, 0, 0.58, 1) forwards;
+  }
+  .anime__social .container .social {
+    color: white;
+    font-size: 1.2em;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    transition: all 0.5s ease-in-out;
+  }
+  .anime__social .container:hover {
+    cursor: pointer;
+  }
+  .twitter:hover .circle {
+    fill: #fff;
+    fill-opacity: 1;
+    animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorTwitter 1s linear forwards;
+  }
+  .twitter:hover .social {
+    color: #3aaae1;
+  }
+  .facebook:hover .circle {
+    fill: #fff;
+    fill-opacity: 1;
+    animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorFacebook 1s linear forwards;
+  }
+  .facebook:hover .social {
+    color: #3b5998;
+  }
+  .pinterest:hover .circle {
+    fill: #fff;
+    fill-opacity: 1;
+    animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorPinterest 1s linear forwards;
+  }
+  .pinterest:hover .social {
+    color: #cb2027;
+  }
+  .linkedin:hover .circle {
+    fill: #fff;
+    fill-opacity: 1;
+    animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorLinkedin 1s linear forwards;
+  }
+  .linkedin:hover .social {
+    color: #007bb6;
+  }
+  @keyframes colorTwitter {
+    from {
+      stroke: #fff;
+    }
+    to {
+      stroke: #3aaae1;
+    }
+  }
+  @keyframes colorFacebook {
+    from {
+      stroke: #fff;
+    }
+    to {
+      stroke: #3b5998;
+    }
+  }
+  @keyframes colorPinterest {
+    from {
+      stroke: #fff;
+    }
+    to {
+      stroke: #cb2027;
+    }
+  }
+  @keyframes colorLinkedin {
+    from {
+      stroke: #fff;
+    }
+    to {
+      stroke: #007bb6;
+    }
+  }
+  @keyframes outWaveIn {
+    to {
+      stroke-width: 10px;
+      stroke-dasharray: 400;
+    }
+  }
+  @keyframes outWaveOut {
+    from {
+      stroke-width: 10px;
+      stroke-dasharray: 400;
+    }
+    to {
+      stroke: #fff;
+      stroke-width: 5px;
+      stroke-dasharray: 40;
+    }
+  }

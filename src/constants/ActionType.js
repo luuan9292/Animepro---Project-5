@@ -1,0 +1,17 @@
+export const FETCH_ANIME = "FETCH_ANIME";
+
+export const USER_SIGNUP = "USER_SIGNUP";
+
+export const USER_SIGNIN = "USER_SIGNIN";
+
+export const USER_SIGNOUT = "USER_SIGNOUT";
+
+export const CHANGE_NOTIFY 		= 'CHANGE_NOTIFY';
+
+export const FILTER_ANIME_BY_TYPE = "FILTER_ANIME_BY_TYPE";
+
+export const FILTER_LIVE_BY_TYPE = "FILTER_LIVE_BY_TYPE";
+
+export const FILTER_MULTI_TYPE = "FILTER_MULTI_TYPE";
+
+export const SEARCH__BY__KEYWORD = "SEARCH__BY__KEYWORD";

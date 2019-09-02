@@ -1,0 +1,217 @@
+/*----------------------------
+        SIGNUP BUTTON
+ ----------------------------*/
+
+ .menu__navbar .search .btn__signup {
+  z-index: 1;
+  position: relative;
+  color: white;
+  font-weight: bold;
+  width: 100%;
+  padding: 0.8em 3em;
+  border-radius: 12px;
+  outline: none;
+  border: none;
+  background-color: #E62B34;
+  overflow: hidden;
+  transition: all 0.4s ease-in-out;
+  border: 1px solid transparent;
+}
+
+.menu__navbar .search .btn__signup:before {
+  content: '';
+  z-index: -1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  background: white;
+  transform-origin: center;
+  transform: translate3d(-50%, -50%, 0) scale3d(0, 0, 0);
+  transition: transform 0.45s ease-in-out;
+}
+
+.menu__navbar .search .btn__signup:hover {
+  color: #E62B34;
+  border-color:#E62B34;
+}
+
+.menu__navbar .search .btn__signup:focus {
+  box-shadow: none;
+}
+
+.menu__navbar .search .btn__signup.click {
+  background: white;
+}
+
+.menu__navbar .search .btn__signup.click {
+  color: #E62B34;
+  border-color:#E62B34;;
+}
+
+.menu__navbar .search .btn__signup:hover::before {
+  transform: translate3d(-50%, -50%, 0) scale3d(15, 15, 15);
+}
+
+/*----------------------------
+        SIGNUP FORM
+ ----------------------------*/
+
+.menu__navbar .search .signup {
+  margin-right: 1%;
+}
+
+.menu__navbar .search .signup .signup__wrapper {
+  position: absolute;
+  top: 75%;
+  left: 0%;
+  height: 30%;
+  width: 100%;
+  z-index: 1;
+  visibility: hidden;
+  background-color: transparent;
+  z-index: 2000;
+}
+   
+.menu__navbar .search .signup .signup__wrapper .signup__form {
+  position: absolute;
+  top: 250%;
+  right: -20%;
+  background-color: #f6f6f6;
+  padding: 3%;
+  width: 30%;
+  height: auto;
+  border-radius: 12px;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.5s;
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form.show  {
+  top: 90%;
+  right: -1%;
+  opacity: 1;
+  visibility: visible;
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form h1 {
+  font-weight: bold;
+  margin-bottom: 10%;
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form div {
+    margin-bottom: 6%;
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form div label {
+    font-size: 1rem;
+    font-weight: bold;
+    opacity: 0.5;
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form input {
+    width : 100%;
+    display: block;
+    border: none;
+    outline: none;
+    padding: 3%;
+    border-radius: 5px;
+    border-bottom: 2px solid rgb(250, 228, 229);
+    
+    transition: all .7s ease-out;
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form input:focus {
+    border-bottom: 2px solid #E62B34;
+    background-color: rgba(230, 43, 52,0.1);
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form input:focus::placeholder {
+    color: transparent;
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form input::placeholder {
+    opacity: 0.5;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form .signup__btn {
+    box-sizing: unset;
+    width: 40%;
+    border: none;
+    outline: none;
+    padding: 3% 10%;
+    margin-left: 20%;
+    color: white;
+    font-weight: bold;
+    background: linear-gradient(90deg, rgba(230,43,52,1) 40%, rgba(230,134,43,1) 100%);
+    border-radius: 50px;
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form .signup__btn:hover {
+    background: linear-gradient(90deg, rgba(230,134,43,1) 40%, rgba(230,43,52,1)100%);
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form .remember {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-left: 25%;
+  margin-bottom: 7%;
+  cursor: pointer;
+  font-weight: bold;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form .remember input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form .remember .checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form .remember:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form .remember input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form .remember input:checked ~ .checkmark:after {
+  display: block;
+}
+
+.menu__navbar .search .signup .signup__wrapper .signup__form .remember .checkmark:after {
+  left: 9px;
+  top: 0;
+  width: 10px;
+  height: 20px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}

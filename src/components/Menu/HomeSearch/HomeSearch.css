@@ -1,0 +1,50 @@
+/*----------------------------
+        SEARCH INPUT
+ ----------------------------*/
+
+ .menu__navbar .search {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 50%;
+}
+
+.menu__navbar .search .form__input {
+    margin-right: 1%;
+}
+
+.menu__navbar .search .form__input select,
+.menu__navbar .search .form__input Input, 
+.menu__navbar .search .form__input button {
+    height: 50px;
+    box-shadow: none;
+    outline: none;
+    border: none;
+}
+
+.menu__navbar .search .form__input select {
+    border-radius: 0;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    background-color: #f6f6f6;
+    font-size: .9rem;
+    height: 50px;
+    padding: 10px 20px;
+}
+
+.menu__navbar .search .form__input Input {
+    border-radius: 0;
+}
+
+.menu__navbar .search .form__input button {
+    border-radius: 0;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    background-color: white;
+    color: #E62B34;
+}
+
+.menu__navbar .search .form__input button:hover {
+    background-color: #E62B34;
+    color: white;
+}

@@ -1,0 +1,73 @@
+.search .filter{
+    padding: 2% 0;
+    background: rgb(255, 153, 122);
+}
+
+.search .filter h1 {
+margin: 0 0 0.25em;
+}
+/* Reset Select */
+.search .filter select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    outline: 0;
+    box-shadow: none;
+    border: 0 !important;
+    background: #2c3e50;
+    background-image: none;
+}
+/* Remove IE arrow */
+.search .filter select::-ms-expand {
+    display: none;
+}
+/* Custom Select */
+.search .filter .filter__select {
+    position: relative;
+    display: flex;
+    width: 15em;
+    height: 3em;
+    line-height: 3;
+    background: #2c3e50;
+    overflow: hidden;
+    border-radius: .25em;
+}
+.search .filter select {
+    flex: 1;
+    padding: 0 .5em;
+    color: #fff;
+    cursor: pointer;
+}
+/* Arrow */
+.search .filter .filter__select::after {
+    content: '\25BC';
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0 1em;
+    background: #34495e;
+    cursor: pointer;
+    pointer-events: none;
+    -webkit-transition: .25s all ease;
+    -o-transition: .25s all ease;
+    transition: .25s all ease;
+}
+
+.search .filter .genres::after {
+    color: white;
+}
+.search .filter .season::after {
+    color: white;
+}
+.search .filter .year::after {
+    color: white;
+}
+.search .filter .sort::after {
+    color: white;
+}
+
+/* Transition */
+.search .filter .filter__select:hover::after {
+    color: dodgerblue;
+}

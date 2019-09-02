@@ -1,0 +1,14 @@
+.admin__panel .admin__content .admin__dashboard .tool__content .edit__search input {
+    width: 900px;
+    border: 2px solid #e7e7e7;
+    outline: none;
+    padding: 1%;
+    border-radius: 5px;
+    margin: 0 auto;
+
+}
+
+.admin__panel .admin__content .admin__dashboard .tool__content .edit__search input:focus {
+    border-bottom: 2px solid mediumturquoise;
+    background-color: rgba(101, 218, 214,0.2);
+}

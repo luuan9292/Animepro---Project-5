@@ -1,0 +1,161 @@
+/*----------------------------
+            Item Link
+ ----------------------------*/
+
+.anime__player {
+    margin: 2% 0;
+    width: 100%;
+    height: auto;
+    background-color: #f6f6f6;
+  }
+
+  .anime__player .jw__player {
+    width: 95%;
+    height: 612px;
+    margin: 2% auto;
+    animation-duration: .5s;
+    animation-name: fadePlayer;
+  }
+
+  .player__wrapper {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+  }
+
+  @keyframes fadePlayer {
+    0% {
+       width: 0;
+    }
+    25% {
+      width: 25%;
+   }
+    50% {
+      width: 50%;
+    }
+    75% {
+      width: 75%;
+   }
+    100% {
+      width: 100%;
+    }
+ }
+
+  .control ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+  }
+
+  .control ul li {
+    border: 1px solid #e62b34;
+    border-radius: 5px;
+    color:#e62b34;
+    width: 120px;
+    text-align: center;
+    padding: 1%;
+    margin-right: 2%;
+    cursor: pointer;
+    font-weight: bold;
+    transition: .5s;
+  }
+
+  .control ul li:hover {
+    border: none;
+    color: white;
+    transform:scale(1.1);
+    background-color: #e62b34;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .server__backup {
+    border: 1px solid #e62b34;
+    text-align: center;   
+    background-color: #e62b34; 
+    margin: 0 3%;
+    margin-bottom: 1%;
+    padding: 1% 0;
+    border-radius: 12px;
+  }
+
+  .server__backup span {
+    font-size: 1.2rem;
+    color: white;
+  }
+
+  .server__backup button {
+    border: 1px solid white;
+    border-radius: 5px;
+    color: #e62b34;
+    background-color: white;
+    width: 120px;
+    text-align: center;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: .5s;
+  }
+
+  .server__backup button:hover {
+    opacity: 0.4;
+  }
+
+  /* Anime Episode */
+
+  .anime__episode {
+    background-color: #e62b34;
+    margin: 0 3%;
+    margin-bottom: 2%;
+    padding: 2% 0 1% 0;
+    border-radius: 10px;
+  }
+
+  .anime__episode .episode__info {
+    padding:0 3%;
+  }
+
+  .anime__episode .episode__info h6 {
+    font-weight: bold;
+    color: white;
+  }
+
+  .anime__episode .episode__info h6 i {
+    font-size: 1.5rem;
+    color: white;
+  }
+
+  .anime__episode .episode__info ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .anime__episode .episode__info ul li {
+    padding: 5px 25px;
+    background-color: white;
+    text-align: center;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .anime__episode .episode__info ul li:hover,
+  .anime__episode .episode__info ul li.active {
+    background-color: black;
+  }
+
+  .anime__episode .episode__info ul li:hover,
+  .anime__episode .episode__info ul li.active {
+    color: white;
+  }
+
+  .anime__episode .episode__info ul li {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+  }

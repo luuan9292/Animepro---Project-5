@@ -1,0 +1,259 @@
+/*----------------------------
+        MENU
+ ----------------------------*/
+
+.menu__navbar .navbar {
+    position: relative;
+    background: linear-gradient(90deg, rgba(230,43,52,1) 40%, rgba(230,134,43,1) 100%);
+    height: 100px;
+    margin-top: 10px;
+}
+
+.menu__navbar .navbar .navbar-nav li {
+    margin-right: 2%;
+    text-align: center;
+}
+
+.menu__navbar .navbar .navbar-nav li:hover a {
+    color: orange;
+}
+
+.menu__navbar .navbar .navbar-nav li a {
+    color: white;
+    font-size: 1.2rem;
+    text-decoration: none;
+    outline: none;
+}
+
+.menu__navbar .navbar .navbar-nav li a.active {
+    color: orange;
+    font-weight: bold;
+}
+
+.menu__navbar .hamburger__nav {
+    width: 100%;
+    background-color: white;
+    border-bottom: 3px solid tomato;
+    display: none;
+}
+
+.menu__navbar .hamburger__nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.menu__navbar .hamburger__nav ul li {
+    margin: 3% 2%;
+    color: red;
+    font-weight: bold;
+    font-size: 1rem;
+    text-align: center;
+}
+
+/*----------------------------
+            LOGO
+ ----------------------------*/
+
+.menu__navbar .logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    text-align: center;
+    padding: 1% 2%;
+    fill: rgba(230,43,52,1);
+    box-sizing: unset;
+}
+
+.menu__navbar .logo h3 {
+    font-family: 'Poppins', sans-serif;
+    color: rgba(230,43,52,1);
+    font-weight: bold;
+
+}
+
+/*----------------------------
+        Responsive
+ ----------------------------*/
+
+@media screen and (max-width: 1500px) {
+
+    .menu__navbar .search .form__input {
+        justify-content: flex-end;
+    }
+
+    .menu__navbar .search .form__input select {
+        font-size: .8rem;
+        padding: 8px 8px;
+    }
+
+    .menu__navbar .search .form__input .form-group {
+        width: 50%;
+    }
+    
+    .menu__navbar .search .form__input Input {
+        width: 100%;
+    }
+    
+    .menu__navbar .search .btn__signup {
+        padding: 0.8em 1.5em;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+
+    .menu__navbar .navbar .navbar-nav li a {
+        font-size: 1rem;
+    }
+
+    .menu__navbar .search .form__input select {
+        display: none;
+    }
+
+    .menu__navbar .search .form__input .form-group {
+        width: 70%;
+    }
+
+    .menu__navbar .search .form__input Input {
+        border-top-left-radius: 12px;
+        border-bottom-left-radius: 12px;
+    }
+
+    .menu__navbar .search .btn__signup {
+        padding: 0.8em 1em;
+    }
+
+    .menu__navbar .logo {
+        padding: 2% 2%;
+    }
+    
+    .menu__navbar .logo h3 {
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (max-width: 992px) {
+
+    .menu__navbar .search {
+        margin-left: auto;
+    }
+
+    .menu__navbar .navbar .navbar-nav {
+        margin-left: 30%;
+    }
+    .menu__navbar .search .form__input .form-group {
+        width: 70%;
+    }
+    .menu__navbar .search .btn__signup {
+        display: none;
+    }
+
+    .menu__navbar .navbar .navbar-nav li a {
+        font-size: .9rem;
+        text-align: center;
+    }
+
+    .menu__navbar .logo {
+        position: absolute;
+        top: 50%;
+        left: 18%;
+        padding: 2% 3%;
+    }
+
+    .mega__menu {
+        width: 100%;
+        top: 150%;
+        left: 0;
+    }
+
+    .mega__menu:before {
+        width: 20px;
+        height: 20px;
+        top: -2%;
+        left: 37%;
+    }
+
+    .mega__menu .sub__menu {
+        font-size: .8rem;
+        margin-bottom: 5%;
+    }
+    .mega__menu .sub__image  img {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .menu__navbar .navbar .navbar-nav {
+        display: none;
+    }
+
+    .menu__navbar .search {
+        width: 100%;
+    }
+    
+    .menu__navbar .search .form__input .form-group {
+        width: 70%;
+    }
+
+    .menu__navbar .logo {
+        left: 12%;
+        padding: 3% 5%;
+    }
+
+    .menu__navbar .hamburger__nav {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 576px) {
+
+    .menu__navbar .search .form__input .form-group {
+        margin-bottom: 0;
+    }
+
+    .menu__navbar .logo {
+        left: 15%;
+        padding: 4% 5%;
+    }
+
+    .menu__navbar .search .form__input .form-group {
+        width: 60%;
+    }
+
+    .menu__navbar .search .form__input Input {
+        height: 30px;
+    }
+    
+    .menu__navbar .search .form__input button {
+        height: 30px;
+    }
+
+    .menu__navbar .search .signin i{
+        font-size: 1rem;
+        padding: 8px 14px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .menu__navbar .search .form__input .form-group {
+        width: 50%;
+    }
+
+    .menu__navbar .logo {
+        padding: 6% 4%;
+        left: 14%;
+    }
+    .menu__navbar .logo h3 {
+        font-size: .9rem;
+    }
+
+    .menu__navbar .hamburger__nav ul {
+        margin-right: 5%;
+    }
+
+    .menu__navbar .hamburger__nav ul li {
+        margin: 3% 1%;
+    }
+}

@@ -1,0 +1,51 @@
+.users__manager .users__title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2% 0;
+}
+
+.users__manager .users__title .add__user{
+    background: #28a745;
+    padding: .7% 0;
+    width: 200px;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+
+.users__manager .users__title input {
+    height: 40px;
+    width: 300px;
+}
+
+.table__users tr td:first-child img {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.table__users tr td:first-child .user__name {
+    margin-left: 5%;
+    margin-top: 2%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.table__users tr td:first-child .user__name h5 {
+    font-weight: bold;
+}
+
+.table__users td, .table__users th {
+    vertical-align: middle;
+}
+
+.table__users tr td:last-child button {
+    background: #dc3545;
+    border: none;
+    margin-left: 25%;
+    padding: 1% 3%;
+    color: white;
+    font-weight: bold;
+}

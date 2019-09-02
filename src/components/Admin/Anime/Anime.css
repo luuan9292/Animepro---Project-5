@@ -1,0 +1,48 @@
+/*----------------------------
+          Adnime
+ ----------------------------*/
+
+ .admin__panel .admin__content .select__tool {
+    justify-content: center;
+}
+
+.admin__panel .admin__content .admin__dashboard .select__tool .tool__box {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.7rem;
+    background: dodgerblue;
+    width: 250px;
+    height: 120px;
+    margin: 2%;
+    cursor: pointer;
+    border-radius: 12px;
+    transition: all .3s;
+}
+
+.admin__panel .admin__content .admin__dashboard .select__tool .tool__box:hover,
+.admin__panel .admin__content .admin__dashboard .select__tool .tool__box.active {
+    opacity: 0.7;
+    transform: scale(1.1);
+
+}
+
+.admin__panel .admin__content .admin__dashboard .select__tool .tool__box .tool__content {
+    margin-top: 8%;
+}
+
+.admin__panel .admin__content .admin__dashboard .select__tool .tool__box span {
+    display: block;
+    margin: auto;
+}
+
+.admin__panel .admin__content .post__title {
+    background-color: DeepSkyBlue;
+    color: white;
+    padding: 1% 2%;
+    margin: 0 2%;
+    font-weight: bold;
+    font-size:  1.5rem;  
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}

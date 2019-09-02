@@ -1,0 +1,134 @@
+/*----------------------------
+        Search Result
+ ----------------------------*/
+ .menu__navbar .search .search__result {
+    position: absolute;
+    top: 75%;
+    left: 0%;
+    height: 30%;
+    width: 100%;
+    z-index: 1;
+    visibility: hidden;
+    background-color: transparent;
+    z-index: 2000;
+  }
+
+  .menu__navbar .search .search__result.hiddenForm {
+    display: none;
+}
+
+  .menu__navbar .search .form__input .form-group input:focus ~ .search__result {
+    visibility: visible;
+  }
+     
+  .menu__navbar .search .search__form {
+    position: absolute;
+    top: 5%;
+    right: 12.4%;
+    background-color: #f6f6f6;
+    padding: 1%;
+    width: 18.3%;
+    height: auto;
+    opacity: 0;
+    visibility: hidden;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    transition: 0.5s;
+  }
+
+  .menu__navbar .search .form__input .form-group input:focus ~ .search__result .search__form {
+    opacity: 1;
+    visibility: visible;
+  }
+
+.menu__navbar .search .search__item {
+    width :100%;
+    display: flex;
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 5%;
+    padding: 0 2%;
+}
+
+.menu__navbar .search  a {
+    text-decoration: none;
+}
+
+.menu__navbar .search .search__item .search__image img {
+    width: 100%;
+    cursor: pointer;
+    border: 1px solid #FF5722;
+    border-bottom: none;
+}
+
+.menu__navbar .search .search__item .search__image .anime__overlay {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 100%;
+    width: 100%;
+    top:0;
+    left: 0;
+    cursor: pointer;
+    opacity: 0;
+    z-index: 10;
+}
+
+.menu__navbar .search .search__item:hover .search__image .anime__overlay {
+    opacity: 1;
+}
+
+.menu__navbar .search .search__item .search__image .anime__overlay img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -100%);
+    width: 40%;
+    transition: all .5s;
+    border: none;
+}
+
+.menu__navbar .search .search__item:hover .search__image .anime__overlay img {
+    transform: translate(-50%, -50%) rotate(360deg);
+}
+
+.menu__navbar .search .col__info {
+    border-bottom: 2px solid #FF5722;
+}
+
+.menu__navbar .search .search__item .search__info h6 {
+    font-weight: bold;
+    color: #E62B34;
+}
+
+.menu__navbar .search .search__item .search__info h6:hover {
+    opacity: 0.7;
+    cursor: pointer;
+} 
+
+.menu__navbar .search .search__item .search__info .sub__info {
+    display: flex;
+    font-size: .9rem;
+    justify-content: space-between;
+    color: #E62B34;
+    margin-bottom: 5%;
+    opacity: 0.7;
+}
+
+.menu__navbar .search .search__item .search__info .view {
+    font-size: .9rem;
+    color:white;
+    background-color: #28a745;
+    padding: 1% 10%;
+    border-radius: 12px;
+}
+
+
+.menu__navbar .search .view__more{
+    width: 100%;
+}
+
+.menu__navbar .search .view__more .view__btn {
+    color: #E62B34;
+    margin-right: 2%;
+    padding: 0.5em 3em;
+}

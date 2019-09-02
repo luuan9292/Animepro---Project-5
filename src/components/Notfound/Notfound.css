@@ -1,0 +1,119 @@
+#notfound {
+    position: relative;
+    height: 100vh;
+    background: url("/img/notfound.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #notfound .notfound {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  
+  .notfound {
+    max-width: 410px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .notfound .notfound-404 {
+    height: 280px;
+    position: relative;
+    z-index: -1;
+  }
+  
+  .notfound .notfound-404 h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(10, 124, 238, 0.4);
+    font-size: 230px;
+    margin: 0px;
+    font-weight: 900;
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+  }
+  
+  .notfound a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+    background: #2c46f0;
+    display: inline-block;
+    padding: 15px 30px;
+    border-radius: 40px;
+    color: #fff;
+    font-weight: 700;
+    -webkit-box-shadow: 0px 4px 15px -5px #0046d5;
+    box-shadow: 0px 4px 15px -5px #0046d5;
+  }
+  
+  @media only screen and (max-width: 767px) {
+    .notfound .notfound-404 {
+      height: 142px;
+    }
+  
+    .notfound .notfound-404 h1 {
+      font-size: 112px;
+    }
+  }
+
+  #notfound a:hover {
+    color: #7f8ff4;
+  }
+  #notfound .subscribe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5%;
+  }
+  #notfound .uppercase {
+    text-transform: uppercase;
+  }
+  #notfound .btn {
+    display: inline-block;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    border: 0;
+    outline: 0;
+    padding: 0;
+    transition: all 200ms ease-in;
+    cursor: pointer;
+  }
+  #notfound .btn--primary {
+    background: #2c46f0;
+    color: #fff;
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, .1);
+    border-radius: 2px;
+    padding: 12px 36px;
+  }
+  #notfound .btn--primary:hover {
+    background: #6c7ff2;
+  }
+  #notfound .btn--primary:active {
+    background: #7f8ff4;
+    box-shadow: inset 0 0 10px 2px rgba(0, 0, 0, .2);
+  }
+  #notfound .btn--inside {
+    margin-left: -96px;
+  }
+  #notfound .form__field {
+    width: 360px;
+    background: #fff;
+    color: #a3a3a3;
+    font: inherit;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, .1);
+    border: 0;
+    outline: 0;
+    padding: 22px 18px;
+  }
+  

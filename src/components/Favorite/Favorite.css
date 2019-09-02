@@ -1,0 +1,21 @@
+.favorite .favorite__title {
+    width: 100%;
+    background: #e62b34;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 1% 0;
+}
+
+.favorite .anime__item .delete__btn {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    font-size: 2rem;
+    color: #28a745;
+}
+
+.favorite .anime__item .delete__btn:hover {
+    opacity: 0.8;
+}

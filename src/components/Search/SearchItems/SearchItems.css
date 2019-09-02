@@ -1,0 +1,23 @@
+/*----------------------------
+          Pagination
+ ----------------------------*/
+
+.search .page__divide .pagination {
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.search .page__divide .pagination li.active .page-link {
+    background-color: #e62b34;
+    border-color: #e62b34;
+    color: white;
+    font-weight: bold;
+}
+
+.search .page__divide .pagination li .page-link:focus {
+    box-shadow: none;
+}
+
+.search .page__divide .pagination li .page-link {
+    color: #e62b34;
+}

@@ -1,0 +1,53 @@
+/*----------------------------
+        Responsive
+ ----------------------------*/
+
+@media screen and (max-width: 1200px) {
+    .sidebar {
+        display: none;
+    }
+    .content .heading__border:after {
+        top: 53%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .content .heading__border:before {
+        top: -9%;
+    }
+    .content .heading__border:after {
+        top: 58%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .content .heading__border:before {
+        top: -10%;
+    }
+    .content .heading__border:after {
+        top: 65%;
+    }
+}
+
+@media screen and (max-width: 576px) {
+
+    .anime {
+        padding: 5%10%;
+    }
+
+    .content .heading__title {
+        position: relative;
+        display: flex;
+        justify-content: center;
+    }
+
+    .content .heading__title h5 {
+        font-size: .8rem;
+    }  
+    
+    .content .heading__border:before {
+    }
+
+    .content .heading__border:after {
+    }
+}
